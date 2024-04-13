@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore the virtual environment directories
+d2e_venv
+
+# Ignore ENV-files possibly containing sensitive data
+.env
+
 # C extensions
 *.so
 
