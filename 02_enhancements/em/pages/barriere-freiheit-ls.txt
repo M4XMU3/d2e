@@ -1,0 +1,74 @@
+
+Erklärung zur Barriere-Freiheit
+
+Hier stehen Informationen zum Thema Barriere-Freiheit.
+
+Diese Internet-Seite soll barriere-frei werden
+
+Das heißt:
+Alle Menschen sollen die Internet-Seite ohne Hilfe nutzen können.
+Also zum Beispiel auch:
+blinde Menschen
+gehörlose Menschen
+Menschen, die nicht alle Finger bewegen können.
+
+Eine Barriere ist ein Hindernis.
+Barrieren im Internet sind zum Beispiel:
+Auf einer Internet-Seite gibt es keine Vorlese-Möglichkeit.
+Die Internet-Seite ist nur in kleiner Schrift lesbar.
+Die Texte sind nur in schwerer Sprache geschrieben.
+Die Bedienungs-Felder sind zu klein.
+
+Für die Barriere-Freiheit von Internet-Seiten gibt es Regeln
+Die Regeln stehen in einem Gesetz.
+Das Gesetz heißt EU-Richtlinie 2016/2102.
+Die EU-Richtlinie gilt für alle Länder in der Europäischen Union.
+Die Europäische Union ist eine Gruppe
+von vielen Ländern in Europa.
+Die Abkürzung für Europäische Union ist EU.
+In der EU-Richtlinie steht:
+Öffentliche Stellen müssen ihre Internet-Seiten barriere-frei machen.
+Öffentliche Stellen sind Ämter.
+Und alle Behörden in Deutschland.
+Die Stadt München ist eine Behörde.
+
+So halten wir uns an die Regeln
+Die Stiftung Pfennig-Parade hat die Internet-Seite geprüft.
+Das war im August 2023.
+Die Stiftung Pfennig-Parade hat mehrere Barrieren gefunden.
+Die Stadt München arbeitet immer weiter daran.
+Die Internet-Seite soll noch weniger Barrieren haben.
+
+Barrieren melden
+Vielleicht brauchen Sie Informationen von der Internet-Seite.
+Aber Sie können die Informationen nicht richtig bekommen.
+Weil es noch Barrieren gibt.
+Zum Beispiel:
+Ihr Computer kann ein wichtiges PDF-Dokument nicht vorlesen.
+Manche Texte bekommt man im Internet nur als PDF-Dokument.
+PDF heißt hier:
+Man kann diese Texte hin und herschicken.
+Diese Texte schauen auf jedem Computer gleich aus.
+Man kann diese Texte aber nicht verändern.
+Das ist bei Microsoft Word anders.
+Diese Texte kann man immer verändern.
+Dafür sehen Word-Dokumente nicht auf
+jedem Computer immer gleich aus.
+Können Sie ein Dokument nicht lesen?
+Dann können Sie uns schreiben.
+Schreiben Sie uns dafür eine E-Mail.
+Unsere E-Mail-Adresse ist:webmanagement@muenchen.de
+
+Dauert die Antwort länger als 6 Wochen?
+Dann können Sie sich bei dieser Stelle beschweren:
+Landesamt für Digitalisierung, Breitband und Vermessung
+Sie können einen Brief schreiben.
+Die Adresse ist:
+Landesamt für Digitalisierung, Breitband und Vermessung
+Alexandrastraße 4
+80538 München
+Sie können auch anrufen.
+Die Telefon-Nummer ist:
+0 89 - 21 29 11 11
+Sie können auch eine E-Mail schreiben.
+Die E-Mail-Adresse ist:service@geodaten.bayern.de

@@ -1,0 +1,12 @@
+wheel
+textstat
+pyphen
+evaluate
+spacy
+sacrebleu
+sacremoses
+nltk
+ReadabilityCalculator
+transformers
+rouge_score
+bert_score

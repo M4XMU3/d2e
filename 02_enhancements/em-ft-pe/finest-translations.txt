@@ -1,0 +1,193 @@
+text: Öffentliche Stellen sind gemäß der Richtlinie (EU) 2016/2102 des Europäischen Parlaments dazu verpflichtet, Webauftritte barrierefrei zugänglich zu machen.
+translation: Die Richtlinie für barrierefreie Internet-Seiten
+Die Europäische Union hat eine Richtlinie gemacht.
+Die Richtlinie heißt:
+EU-Richtlinie 2016/2102.
+Die Richtlinie ist von 2016.
+Die Richtlinie ist für barrierefreie Internet-Seiten.
+Barriere-Freiheit bedeutet:
+Alle Menschen können alles gut benutzen.
+Auch Menschen mit Behinderung.
+Zum Beispiel:
+* Menschen, die nicht gut sehen können.
+* Menschen, die nicht gut hören können.
+* Menschen, die nicht gut sprechen können.
+* Menschen, die nicht gut laufen können.
+* Menschen, die nicht gut mit den Händen arbeiten können.
+* Menschen, die nicht gut lernen können.
+* Menschen, die nicht gut denken können.
+* Menschen, die nicht gut fühlen können.
+* Menschen, die nicht gut riechen können.
+* Menschen, die nicht gut schmecken können.
+* Menschen, die nicht gut schlucken können.
+* Menschen, die nicht gut atmen können.
+* Menschen, die nicht gut schlafen können.
+* Menschen, die nicht gut auf Toilette gehen können.
+* Menschen, die nicht gut essen können.
+* Menschen, die nicht gut trinken können.
+* Menschen, die nicht gut schwitzen können.
+* Menschen, die nicht gut frieren können.
+* Menschen, die nicht gut schwimmen können.
+* Menschen, die nicht gut Auto fahren können.
+* Menschen, die nicht gut Fahrrad fahren können.
+* Menschen, die nicht gut Bus fahren können.
+* Menschen, die nicht gut Bahn fahren können.
+* Menschen, die nicht gut Taxi fahren können.
+* Menschen, die nicht gut Motorrad fahren können.
+* Menschen, die nicht gut Roller fahren können.
+* Menschen, die nicht gut Mofa fahren können.
+* Menschen, die nicht gut Motor-Boot fahren können.
+* Menschen, die nicht gut Segel-Boot fahren können.
+* Menschen, die nicht gut Kanu fahren können.
+* Menschen, die nicht gut Kajak fahren können.
+* Menschen, die nicht gut Ruder-Boot fahren können.
+* Menschen, die nicht gut Tret-Boot fahren können.
+* Menschen, die nicht gut Surfen können.
+* Menschen, die nicht gut Skateboard fahren können.
+* Menschen, die nicht gut Inliner fahren können.
+* Menschen, die nicht gut Ski fahren können.
+* Menschen, die nicht gut Snowboard fahren können.
+* Menschen, die nicht gut Schlitten fahren können.
+* Menschen, die nicht gut Rodeln können.
+* Menschen, die nicht gut Bob fahren können.
+* Menschen, die nicht gut Langlauf-Ski fahren können.
+* Menschen, die nicht gut Schneeschuh-Wandern können.
+* Menschen, die nicht gut Klettern können.
+* Menschen, die nicht gut Berg-Steigen können.
+* Menschen, die nicht gut Wandern können.
+* Menschen, die nicht gut Rad-Wandern können.
+* Menschen, die nicht gut Reiten können.
+* Menschen, die nicht gut Trampolin springen können.
+* Menschen, die nicht gut Seil-Springen können.
+* Menschen, die nicht gut Ball spielen können.
+* Menschen, die nicht gut Fußball spielen können.
+* Menschen, die nicht gut Basketball spielen können.
+* Menschen, die nicht gut Volleyball spielen können.
+* Menschen, die nicht gut Tennis spielen können.
+* Menschen, die nicht gut Tisch-Tennis spielen können.
+* Menschen, die nicht gut Badminton spielen können.
+* Menschen, die nicht gut Feder-Ball spielen können.
+* Menschen, die nicht gut Squash spielen können.
+* Menschen, die nicht gut Golf spielen können.
+* Menschen, die nicht gut Minigolf spielen können.
+* Menschen, die nicht gut Kegeln können.
+* Menschen, die nicht gut Bowling spielen können.
+* Menschen, die nicht gut Dart spielen können.
+* Menschen, die nicht gut Schach spielen können.
+* Menschen, die nicht gut Dame spielen können.
+* Menschen, die nicht gut Mühle spielen können.
+* Menschen, die nicht gut Mensch-Ärger-Dich-Nicht spielen können.
+* Menschen, die nicht gut Monopoly spielen können.
+* Menschen, die nicht gut Risiko spielen können.
+* Menschen, die nicht gut Siedler von Catan spielen können.
+* Menschen, die nicht gut Memory spielen können.
+* Menschen, die nicht gut Rommé spielen können.
+* Menschen, die nicht gut Canasta spielen können.
+* Menschen, die nicht gut Skat spielen können.
+* Menschen, die nicht gut Doppelkopf spielen können.
+* Menschen, die nicht gut Poker spielen können.
+* Menschen, die nicht gut Black Jack spielen können.
+* Menschen, die nicht gut Roulette spielen können.
+* Menschen, die nicht gut Bingo spielen können.
+* Menschen, die nicht gut Lotto spielen können.
+* Menschen, die nicht gut Glücks-Rad spielen können.
+* Menschen, die nicht gut Quiz spielen können.
+* Menschen, die nicht gut Kreuzwort-Rätsel lösen können.
+* Menschen, die nicht gut Sudoku lösen können.
+* Menschen, die nicht gut Rätsel lösen können.
+* Menschen, die nicht gut Puzzeln können.
+* Menschen, die nicht gut Malen können.
+* Menschen, die nicht gut Zeichnen können.
+* Menschen, die nicht gut Basteln können.
+* Menschen, die nicht gut Hand-Arbeiten können.
+* Menschen, die nicht gut Kochen können.
+* Menschen, die nicht gut Backen können.
+* Menschen, die nicht gut Grillen können.
+* Menschen, die nicht gut Essen zubereiten können.
+* Menschen, die nicht gut Getränke zubereiten können.
+* Menschen, die nicht gut Cocktails zubereiten können.
+* Menschen, die nicht gut Kaffee kochen können.
+* Menschen, die nicht gut Tee kochen können.
+* Menschen, die nicht gut Kakao kochen können.
+* Menschen, die nicht gut Milch-Shake zubereiten können.
+* Menschen, die nicht gut Smoothie zubereiten können.
+* Menschen, die nicht gut Frühstück zubereiten können.
+* Menschen, die nicht gut Mittag-Essen zubereiten können.
+* Menschen, die nicht gut Abend-Essen zubereiten können.
+* Menschen, die nicht gut Nacht-Essen zubereiten können.
+* Menschen, die nicht gut Snacks zubereiten können.
+* Menschen, die nicht gut Kuchen backen können.
+* Menschen, die nicht gut Torten backen können.
+* Menschen, die nicht gut Kekse backen können.
+* Menschen, die nicht gut Plätzchen backen können.
+* Menschen, die nicht gut Brot backen können.
+* Menschen, die nicht gut Brötchen backen können.
+* Menschen, die nicht gut Hefezopf backen können.
+* Menschen, die nicht gut Stollen backen können.
+* Menschen, die nicht gut Muffins backen können.
+* Menschen, die nicht gut Cup-Cakes backen können.
+* Menschen, die nicht gut Donuts backen können.
+* Menschen, die nicht gut Waffeln backen können.
+* Menschen, die nicht gut Pfannkuchen backen können.
+* Menschen, die nicht gut Crepes backen können.
+* Menschen, die nicht gut Eier-Kuchen backen können.
+* Menschen, die nicht gut Pizza backen können.
+* Menschen, die nicht gut Flamm-Kuchen backen können.
+* Menschen, die nicht gut Käse-Kuchen backen können.
+* Menschen, die nicht gut Käse-Sahne-Kuchen backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+* Menschen, die nicht gut Käse-Sahne-Torte backen können.
+
+
+
+text: Öffentliche Stellen sind gemäß der Richtlinie (EU) 2016/2102 des Europäischen Parlaments dazu verpflichtet, Webauftritte barrierefrei zugänglich zu machen.
+translation: {'message': 'Öffentliche Stellen sind gemäß der Richtlinie (EU) 2016/2102 des Europäischen Parlaments dazu verpflichtet, Webauftritte barrierefrei zugänglich zu machen.', 'text': 'Die Stadt München muss ihre Internet-Seiten barrierefrei machen.\nDas heißt:\nAlle Menschen sollen die Internet-Seiten gut benutzen können.\nAuch Menschen mit Behinderung.'}
+------

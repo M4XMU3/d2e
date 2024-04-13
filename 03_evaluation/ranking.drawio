@@ -1,0 +1,58 @@
+<mxfile host="Electron" modified="2024-04-08T13:42:10.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="HFCiVaEUIK6fmdu5svh9" version="23.1.5" type="device">
+  <diagram name="Seite-1" id="HNC068FWVTksnIMSJgnc">
+    <mxGraphModel dx="1277" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9Vy2PzZPZ_rTjsrRve6i-14" value="1" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#A6B727;strokeColor=none;shadow=0;fontSize=42;fontColor=#000000;align=center;fontStyle=1;spacing=0;gradientColor=#A6B727;gradientDirection=east;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1040" width="116.66842105263156" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vy2PzZPZ_rTjsrRve6i-15" value="FT" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#DEE893;strokeColor=none;shadow=0;fontSize=42;fontColor=#000000;align=center;spacingLeft=0;fontStyle=1;spacing=0;gradientColor=#DEE893;gradientDirection=east;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="155.00157894736844" y="1040" width="338.33842105263153" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vy2PzZPZ_rTjsrRve6i-16" value="2" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#FEC306;strokeColor=none;shadow=0;fontSize=42;fontColor=#000000;align=center;fontStyle=1;spacing=0;gradientColor=#FFC406;gradientDirection=east;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="35" y="1140" width="116.66842105263156" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vy2PzZPZ_rTjsrRve6i-17" value="PE" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#fedf7b;strokeColor=none;shadow=0;fontSize=42;fontColor=#000000;align=center;spacingLeft=0;fontStyle=1;spacing=0;gradientColor=#FFE07B;gradientDirection=east;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="170.00157894736844" y="1140" width="338.33842105263153" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vy2PzZPZ_rTjsrRve6i-18" value="3" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#fa6800;strokeColor=#C73500;shadow=0;fontSize=42;fontColor=#000000;align=center;fontStyle=1;spacing=0;gradientDirection=east;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="1240" width="116.66842105263156" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vy2PzZPZ_rTjsrRve6i-19" value="EM" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#FFB784;strokeColor=none;shadow=0;fontSize=42;align=center;spacingLeft=0;fontStyle=1;spacing=0;gradientDirection=east;flipV=1;fontColor=#000000;gradientColor=#FFB784;" parent="1" vertex="1">
+          <mxGeometry x="185.00157894736844" y="1240" width="338.33842105263153" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="nEJoV3kmQkELGWP5aYA4-1" value="4" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#E51400;strokeColor=none;shadow=0;fontSize=42;fontColor=#000000;align=center;fontStyle=1;spacing=0;gradientColor=#FF1600;gradientDirection=east;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="64" y="1340" width="116.66842105263156" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="nEJoV3kmQkELGWP5aYA4-2" value="GPT-3.5" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#FF8E83;strokeColor=none;shadow=0;fontSize=42;fontColor=#000000;align=center;spacingLeft=0;fontStyle=1;spacing=0;gradientColor=#FF8E83;gradientDirection=east;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="199.00157894736844" y="1340" width="338.33842105263153" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="nEJoV3kmQkELGWP5aYA4-12" value="1" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#A6B727;strokeColor=none;shadow=0;fontSize=42;fontColor=#000000;align=center;fontStyle=1;spacing=0;gradientColor=#A6B727;gradientDirection=east;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="1040" width="116.66842105263156" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="nEJoV3kmQkELGWP5aYA4-13" value="EM-FT" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#DEE893;strokeColor=none;shadow=0;fontSize=42;fontColor=#000000;align=center;spacingLeft=0;fontStyle=1;spacing=0;gradientColor=#DEE893;gradientDirection=east;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="765.0015789473684" y="1040" width="338.33842105263153" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="nEJoV3kmQkELGWP5aYA4-14" value="2" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#FEC306;strokeColor=none;shadow=0;fontSize=42;fontColor=#000000;align=center;fontStyle=1;spacing=0;gradientColor=#FFC406;gradientDirection=east;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="645" y="1140" width="116.66842105263156" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="nEJoV3kmQkELGWP5aYA4-15" value="FT-PE" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#fedf7b;strokeColor=none;shadow=0;fontSize=42;fontColor=#000000;align=center;spacingLeft=0;fontStyle=1;spacing=0;gradientColor=#FFE07B;gradientDirection=east;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="780.0015789473684" y="1140" width="338.33842105263153" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="nEJoV3kmQkELGWP5aYA4-16" value="3" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#fa6800;strokeColor=#C73500;shadow=0;fontSize=42;fontColor=#000000;align=center;fontStyle=1;spacing=0;gradientDirection=east;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1240" width="116.66842105263156" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="nEJoV3kmQkELGWP5aYA4-17" value="EM-FT-PE" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#FFB784;strokeColor=none;shadow=0;fontSize=42;align=center;spacingLeft=0;fontStyle=1;spacing=0;gradientDirection=east;flipV=1;fontColor=#000000;gradientColor=#FFB784;" parent="1" vertex="1">
+          <mxGeometry x="795.0015789473684" y="1240" width="338.33842105263153" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="nEJoV3kmQkELGWP5aYA4-18" value="4" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#e51400;strokeColor=none;shadow=0;fontSize=42;fontColor=#000000;align=center;fontStyle=1;spacing=0;gradientDirection=east;flipV=1;gradientColor=#FF1600;" parent="1" vertex="1">
+          <mxGeometry x="674" y="1340" width="116.66842105263156" height="69.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="nEJoV3kmQkELGWP5aYA4-19" value="EM-PE" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;whiteSpace=wrap;fillColor=#FF8E83;strokeColor=none;shadow=0;fontSize=42;fontColor=#000000;align=center;spacingLeft=0;fontStyle=1;spacing=0;gradientColor=#FF8E83;gradientDirection=east;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="809.0015789473684" y="1340" width="338.33842105263153" height="69.99999999999999" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
