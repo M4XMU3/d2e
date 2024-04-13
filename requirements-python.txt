@@ -1,0 +1,16 @@
+textstat
+pyphen
+evaluate
+spacy
+sacrebleu
+sacremoses
+nltk
+ReadabilityCalculator
+langchain
+langchain-community
+pandas
+openai
+tiktoken
+langchain-openai
+python-dotenv
+faiss-cpu
