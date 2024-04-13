@@ -1,5 +1,5 @@
 # d2e
-Difficult To Easy - Developing a LLM for translating official into easy language           
+Difficult To Easy - Developing a LLM for translating official into German Easy Language           
 paper: Arxive link coming soon
 
 # before you start
