@@ -1,5 +1,6 @@
 # d2e
 Difficult To Easy - Developing a LLM for translating official into easy language
+paper: Arxive link coming soon
 
 # before you start
 * this porject is meant to be used in a Linux or at least WSL System
