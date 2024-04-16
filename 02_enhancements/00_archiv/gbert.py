@@ -2,7 +2,7 @@ import requests
 import time
 
 API_URL = "https://api-inference.huggingface.co/models/deepset/gbert-base"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer <<your_huggingface_access_key_here>>"}
 
 def query(payload):
 	response = requests.post(API_URL, headers=headers, json=payload)
