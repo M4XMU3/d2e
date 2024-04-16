@@ -7,11 +7,12 @@ To use these scripts you need an OpenAI Account.
 
 # before you start
 * this porject is meant to be used in a Linux or at least WSL System
-* files in folders that appear to be 0kb are symlinks
+* if there are files in folders that appear to be 0kb they are symlinks
 
 # How To - Translation & Evaluation
 * create python venv && activate
 * install requirements-python.txt with pip
+* insert your OpenAI API key in the .env file
 * ./02_enhancements/ contains all enhancement methods
   * each method folder contains, named after the method
     * a python script that calculates the Translation
