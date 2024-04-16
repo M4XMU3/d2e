@@ -12,7 +12,6 @@ To use these scripts you need an OpenAI Account.
 # How To - Translation & Evaluation
 * create python venv && activate
 * install requirements-python.txt with pip
-  * requirements are listed separateley for enhancements and evaluation
 * ./02_enhancements/ contains all enhancement methods
   * each method folder contains, named after the method
     * a python script that calculates the Translation
