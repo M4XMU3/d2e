@@ -14,3 +14,6 @@ tiktoken
 langchain-openai
 python-dotenv
 faiss-cpu
+wheel
+transformers
+bert_score
