@@ -1,6 +1,6 @@
 # d2e
 Difficult To Easy - Developing a LLM for translating official into Easy Language            
-paper: Arxive link coming soon
+paper: D2E.pdf
 
 This work aims to enhance GPT with Embedding, Fine Tuning, Prompt Engineering and the combination of these methods. Furthermore, it evaluates the results of the translations of the parallel corpora base data into German Easy Language.                   
 To use these scripts you need an OpenAI Account.              
