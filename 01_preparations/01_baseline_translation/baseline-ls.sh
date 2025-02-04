@@ -3,7 +3,7 @@
 # variables
 model="gpt-3.5-turbo-1106"
 url="https://api.openai.com/v1/chat/completions"
-api_key="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"
+api_key="*****"
 to_translate=$1
 
 # combine common messages and easy_language_rules
