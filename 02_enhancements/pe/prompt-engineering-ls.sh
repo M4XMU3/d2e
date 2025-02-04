@@ -3,7 +3,7 @@
 # variables
 model="gpt-3.5-turbo-1106"
 url="https://api.openai.com/v1/chat/completions"
-api_key="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"
+api_key="*****"
 source "$(dirname "$0")/nls-rules.sh"
 
 while read -r LINE; do
